@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.8.0 (2024-01-15)
+
+Full Changelog: [v1.7.2...v1.8.0](https://github.com/openai/openai-python/compare/v1.7.2...v1.8.0)
+
+### Features
+
+* **client:** add support for streaming raw responses ([#1072](https://github.com/openai/openai-python/issues/1072)) ([0e93c3b](https://github.com/openai/openai-python/commit/0e93c3b5bc9cfa041e91962fd82c0d9358125024))
+
 ## 1.7.2 (2024-01-12)
 
 Full Changelog: [v1.7.1...v1.7.2](https://github.com/openai/openai-python/compare/v1.7.1...v1.7.2)
